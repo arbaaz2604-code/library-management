@@ -85,7 +85,7 @@ npm test
 ## Notes for Reviewers/HR
 - Both backend and frontend servers must be running simultaneously
 - If you encounter issues, ensure Node.js is installed and ports 3000/5000 are free
-- For any questions or issues, please contact the candidate
+- For any questions or issues, please contact 
 
 ---
 
